@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetWindow", "GetWindow\GetWindow.vcxproj", "{E146253D-4A83-4C93-94F2-7394D75AEF8A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EnumWindow", "EnumWindow\EnumWindow.vcxproj", "{758111EC-6957-4162-A42B-F7C69CC25AA9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetOwnerWnd", "GetOwnerWnd\GetOwnerWnd.vcxproj", "{7B823287-348A-4DD4-9B94-2789B6B6F8A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E146253D-4A83-4C93-94F2-7394D75AEF8A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E146253D-4A83-4C93-94F2-7394D75AEF8A}.Debug|Win32.Build.0 = Debug|Win32
+		{E146253D-4A83-4C93-94F2-7394D75AEF8A}.Release|Win32.ActiveCfg = Release|Win32
+		{E146253D-4A83-4C93-94F2-7394D75AEF8A}.Release|Win32.Build.0 = Release|Win32
+		{758111EC-6957-4162-A42B-F7C69CC25AA9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{758111EC-6957-4162-A42B-F7C69CC25AA9}.Debug|Win32.Build.0 = Debug|Win32
+		{758111EC-6957-4162-A42B-F7C69CC25AA9}.Release|Win32.ActiveCfg = Release|Win32
+		{758111EC-6957-4162-A42B-F7C69CC25AA9}.Release|Win32.Build.0 = Release|Win32
+		{7B823287-348A-4DD4-9B94-2789B6B6F8A9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7B823287-348A-4DD4-9B94-2789B6B6F8A9}.Debug|Win32.Build.0 = Debug|Win32
+		{7B823287-348A-4DD4-9B94-2789B6B6F8A9}.Release|Win32.ActiveCfg = Release|Win32
+		{7B823287-348A-4DD4-9B94-2789B6B6F8A9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
